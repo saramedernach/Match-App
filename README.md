@@ -3,7 +3,7 @@ Card matching iOS game that involves animations, sounds, timers, and a grid styl
 
 ## Game
 
-<img src=https://github.com/saramedernach/Demo/blob/master/Hnet.com-image%20(2).gif width = 600>
+<img src=https://github.com/saramedernach/Demo/blob/master/Hnet.com-image%20(3).gif width = 600>
 
 <b>Instructions</b>
 
